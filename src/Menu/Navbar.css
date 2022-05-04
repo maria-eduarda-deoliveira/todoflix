@@ -1,0 +1,86 @@
+.navbar{
+  background-color: #000;
+  display: flex;
+  font-family: Arial;
+}
+.navbar a{
+  text-decoration: none;
+}
+.navbar-logo{
+  font-family: Bebas Neue;
+  margin-left: 4%;
+  font-size: 300%;
+  color: #E71B27;
+}
+.nav-item{
+  position: relative;
+  float:left;
+  list-style: none;
+  padding: 20px 35px;
+}
+
+.nav-item a{
+  color: #fff;
+}
+.setinha{
+  position: absolute;
+  width: 25%;
+  top: 30%;
+}
+.Add{
+  position: absolute;
+  top: 2%;
+  left: 50%;
+  background-color: #E71B27;
+  border-style: none;
+  width: 112px;
+  height: 32px;
+  border-radius: 4px;
+  color: #fff;
+  opacity: 1;
+  cursor: pointer;
+}
+.Add:hover{
+  background-color:darkred;
+}
+.perfil{
+  position: absolute;
+  left: 92%;
+  top: 2%;
+}
+.setaperfil{
+  position: absolute;
+  left: 93.6%;
+  top: 3%;
+  width: 3%;
+  cursor: pointer;
+}
+
+/*SearchBar*/
+
+.divBusca{
+position: absolute;
+background-color: #2C2C2C ;
+top: 12px;
+left: 830px;
+width: 400px;
+height: 32px;
+border-radius: 4px;
+}
+.btnBusca{
+  background-color: #2C2C2C ;
+border-style: none;
+margin-top: 2%;
+width: 10%;
+cursor: pointer;
+}
+.txtBusca{
+position: relative;
+background: #2C2C2C;
+color: #fff;
+border-style: none;
+opacity: 1;
+bottom: 5px;
+width: 90%;
+height: 85%;
+}

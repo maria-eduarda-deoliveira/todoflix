@@ -1,0 +1,41 @@
+.drop-d-menu {
+  position: absolute;
+  top: 60px;
+  left: 2%;
+  list-style: none;
+  text-align: start;
+  width: 160px;
+  background: #000;
+  transition: 0.3s;
+}
+
+.drop-d-menu li {
+  font-family: Arial;
+  cursor: pointer;
+  font-size: 13px/15px;
+  text-transform: none;
+  font-weight: 200;
+}
+
+.drop-d-menu.clicked {
+  display: none;
+}
+
+.drop-d-link {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  color: #fff;
+  padding: 12px;
+}
+
+.drop-d-link:hover{
+  background-color: #E71B27;
+}
+
+@media screen and (max-width: 960px) {
+  .bi-arrow-down {
+    display: none;
+  }
+}
