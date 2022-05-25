@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/todoflix/static/css/main.398dbbff.css",
+    "main.js": "/todoflix/static/js/main.391d6a47.js",
+    "static/media/Capitao.png": "/todoflix/static/media/Capitao.53a434c49e168b7e8c3d.png",
+    "static/media/Shrek.png": "/todoflix/static/media/Shrek.1ccbd1fcceff578e0e51.png",
+    "static/media/Spiderman.png": "/todoflix/static/media/Spiderman.2ab73d947bbfe64331d0.png",
+    "static/media/Galinhas.png": "/todoflix/static/media/Galinhas.05235d01d5e79317ab06.png",
+    "static/media/Sozinho.png": "/todoflix/static/media/Sozinho.e66983f8ba01231c5d7f.png",
+    "static/media/Horas.png": "/todoflix/static/media/Horas.340d0ad5b85db3d3f5fe.png",
+    "static/media/Sonho.png": "/todoflix/static/media/Sonho.db85544ea4ca7fafb550.png",
+    "static/media/Amar.png": "/todoflix/static/media/Amar.68b0269830d08ba45047.png",
+    "static/media/Rocketman.png": "/todoflix/static/media/Rocketman.26f0780a7fd5eb5f16df.png",
+    "static/media/profile.svg": "/todoflix/static/media/profile.a26b9c3c15e359fc6627a61b1b1386b1.svg",
+    "index.html": "/todoflix/index.html",
+    "static/media/Search.svg": "/todoflix/static/media/Search.a20389f492c95705173d8b2d061e5e95.svg",
+    "static/media/laranja.svg": "/todoflix/static/media/laranja.7369bc7c95e8d91ec2a57e31d770b7d9.svg",
+    "static/media/verde.svg": "/todoflix/static/media/verde.19da268425db7dab09bed4a8c23e0cb3.svg",
+    "static/media/vermelho.svg": "/todoflix/static/media/vermelho.459ea714577c7e3d7dbae81de2a1f89f.svg",
+    "static/media/branco.svg": "/todoflix/static/media/branco.a29ee9fd5eb57db1264776c8aad909c3.svg",
+    "static/media/Coracao.svg": "/todoflix/static/media/Coracao.9aee64657fb7d48c351d45dd0be7c986.svg",
+    "static/media/CoracaoBranco.svg": "/todoflix/static/media/CoracaoBranco.10e3860b69fec5465f27d0cc3f264617.svg",
+    "static/media/Arrow.svg": "/todoflix/static/media/Arrow.36190091c1accd2bfdb986acfc9a5b4f.svg",
+    "static/media/caret.svg": "/todoflix/static/media/caret.5134d2aeb113960400116146e6889749.svg",
+    "main.398dbbff.css.map": "/todoflix/static/css/main.398dbbff.css.map",
+    "main.391d6a47.js.map": "/todoflix/static/js/main.391d6a47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398dbbff.css",
+    "static/js/main.391d6a47.js"
+  ]
+}
